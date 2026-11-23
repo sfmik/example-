@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Космос</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f3fa;
+color: #222;
+margin: 20px;
+}
+h1 {
+color: #354b8c;
+text-align: center;
+}
+h2 {
+color: #5369a8;
+font-weight: bold;
+}
+p {
+font-size: 16px;
+line-height: 1.6;
+margin: 15px;
+}
+img {
+width: 100%;
+max-width: 700px;
+display: block;
+margin: 20px auto;
+border-radius: 12px;
+}
+.content {
+max-width: 800px;
+margin: auto;
+background-color: white;
+padding: 25px;
+border-radius: 15px;
+}
+a {
+color: #354b8c;
+}
+footer {
+background-color: #354b8c;
+color: white;
+text-align: center;
+padding: 15px;
+margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<div class="content">
+<h1>Космос — мир за пределами Земли</h1>
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1000&q=80" alt="Космос">
+<h2>Что такое космос?</h2>
+<p>
+Космос — это огромное пространство за пределами нашей планеты.
+В нём находятся звёзды, планеты и галактики.
+Учёные изучают космос, чтобы лучше понимать устройство Вселенной.
+<strong>Вселенная очень велика</strong> и содержит множество загадок.
+</p>
+<hr>
+<h2>Интересные факты</h2>
+<p>
+Солнце является ближайшей к Земле звездой.
+В Солнечной системе находятся восемь планет.
+Луна является естественным спутником нашей планеты.
+<em>Изучение космоса</em> помогает делать новые открытия.
+</p>
+<ul>
+<li>Земля вращается вокруг Солнца.</li>
+<li>На Марсе есть огромные вулканы.</li>
+<li>В космос отправляют спутники.</li>
+<li>Звёзды излучают собственный свет.</li>
+</ul>
+<h2>Исследование Вселенной</h2>
+<p>
+Учёные используют телескопы для наблюдения за далёкими объектами.
+Космические аппараты помогают исследовать другие планеты.
+Благодаря технологиям человечество узнаёт больше о Вселенной.
+Подробнее можно прочитать в <a href="https://ru.wikipedia.org/wiki/Космос">Википедии</a>.
+</p>
+</div>
+<footer>
+Автор: Владимир<br>
+Дата публикации: 26.10.2026
+</footer>
+</body>
+</html>
