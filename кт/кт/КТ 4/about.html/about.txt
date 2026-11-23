@@ -1,0 +1,55 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О проекте — Форма</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">ФОРМА.</a>
+
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="about.html">О проекте</a>
+        <a href="contacts.html">Контакты</a>
+    </nav>
+</header>
+
+<main class="content">
+    <p class="label">О НАС</p>
+
+    <h1>Создаём новое<br>через дизайн.</h1>
+
+    <p>
+        Форма — творческий проект, посвящённый визуальному
+        дизайну и современным идеям.
+    </p>
+
+    <p>
+        Мы верим, что хороший дизайн помогает рассказывать
+        истории, передавать эмоции и делать привычные вещи
+        интереснее.
+    </p>
+
+    <h2>Наши направления</h2>
+
+    <div class="services">
+        <div>Графический дизайн</div>
+        <div>Разработка сайтов</div>
+        <div>Визуальные концепции</div>
+    </div>
+</main>
+
+<footer>
+    © 2026 ФОРМА. Все права защищены.
+</footer>
+
+</body>
+</html>

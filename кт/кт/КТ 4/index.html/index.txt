@@ -1,0 +1,43 @@
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Форма — главная</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">ФОРМА.</a>
+
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="about.html">О проекте</a>
+        <a href="contacts.html">Контакты</a>
+    </nav>
+</header>
+
+<main class="hero">
+    <p class="label">ТВОРЧЕСКОЕ ПРОСТРАНСТВО</p>
+
+    <h1>Идеи становятся<br>реальностью.</h1>
+
+    <p class="description">
+        Мы создаём визуальные решения, разрабатываем
+        дизайн и превращаем интересные идеи в проекты.
+    </p>
+
+    <a class="button" href="about.html">Узнать о проекте</a>
+
+    <div class="decoration">Ф</div>
+</main>
+
+<footer>
+    © 2026 ФОРМА. Все права защищены.
+</footer>
+
+</body>
+</html>

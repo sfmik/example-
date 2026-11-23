@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты — Форма</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <a class="logo" href="index.html">ФОРМА.</a>
+
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="about.html">О проекте</a>
+        <a href="contacts.html">Контакты</a>
+    </nav>
+</header>
+
+<main class="content">
+    <p class="label">СВЯЗЬ С НАМИ</p>
+
+    <h1>Давайте создадим<br>что-то вместе.</h1>
+
+    <p>
+        Есть идея или предложение? Мы открыты
+        к новым проектам и сотрудничеству.
+    </p>
+
+    <div class="contact">
+        <h2>Электронная почта</h2>
+        <p>hello@example.ru</p>
+    </div>
+
+    <div class="contact">
+        <h2>Социальные сети</h2>
+        <p>Мы скоро появимся в социальных сетях.</p>
+    </div>
+</main>
+
+<footer>
+    © 2026 ФОРМА. Все права защищены.
+</footer>
+
+</body>
+</html>
